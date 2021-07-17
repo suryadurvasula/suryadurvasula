@@ -1,0 +1,11 @@
+ * import java.util.*;
+     Static void printLinkedList(SingleyLinkedListNodehead)
+     {
+     * SinglyLinkedListNode temp; 
+     *    for(temp=head;temp;temp!=null;temp=temp.next)
+     {
+         System.out.println(temp.data);
+         }
+         }
+         Private static final Scanner scanner=new Scanner(System.in);
+     
